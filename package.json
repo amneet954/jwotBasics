@@ -1,0 +1,11 @@
+{
+  "name": "jwotbasics",
+  "version": "1.0.0",
+  "description": "A simple project, created on the basis of creating JWOTs and decoding them to receive a true value. Only \\\"out of the box\\\" Node modules used.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amneet Sandhu",
+  "license": "ISC"
+}
